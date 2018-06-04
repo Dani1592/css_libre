@@ -1,0 +1,17 @@
+p{
+  padding: 13px
+}
+#primeraParte{
+  background-color: yellow;
+  display: block;
+
+}
+#segundaParte {
+  color: white;
+  background-color: black;
+  display: block;
+}
+#terceraParte {
+  background-color: yellow;
+  display: block;
+}
